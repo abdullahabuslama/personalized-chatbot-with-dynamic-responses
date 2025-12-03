@@ -90,6 +90,6 @@ Provider dashboards and role-based access
 
 ## ⚠️ Disclaimer
 
-Med-RAG is not a doctor.
+"Med-RAG is not a doctor."
 Always consult licensed healthcare professionals for diagnosis, treatment, or emergencies.
 
